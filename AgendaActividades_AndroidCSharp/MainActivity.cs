@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace AgendaActividades_AndroidCSharp
 {
-    [Activity(Label = "AgendaActividades_AndroidCSharp", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "AgendaActividades", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         int count = 1;
